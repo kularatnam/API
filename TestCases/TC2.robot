@@ -20,7 +20,7 @@ Get_alert
     click link  //*[@id="root"]/div[2]/div/div/section/footer/p/a
     wait until page contains  Need an account?
     input text  //*[@id="email"]  hussainzahirmuhammad@gmail.com
-    input text  //*[@id="password"]  032649180Xe*
+    input text  //*[@id="password"]  
     wait until element is enabled  //*[@id="signIn"]/button
     click button  //*[@id="signIn"]/button
 #    [Tags]    DEBUG
